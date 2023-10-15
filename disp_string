@@ -1,0 +1,20 @@
+//PRN: 22070123099
+//EXP.8
+//NAME:SANUSHA MENON
+
+#include<iostream>
+#include<string>
+using namespace std;
+
+int main() {
+    string str;
+    cout<<"Enter string: ";
+    cin>>str;
+    cout<<"Entered string is "<<str<<endl;
+
+    return 0;
+}
+/*/OUTPUT:
+Enter string: Hello
+Entered string is Hello
+/*/
