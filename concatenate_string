@@ -1,0 +1,24 @@
+//PRN: 22070123099
+//EXP.8
+//NAME:SANUSHA MENON
+
+#include<iostream>
+#include<string>
+using namespace std;
+
+int main() {
+    string str1, str2;
+    cout<<"Enter string1: ";
+    cin>>str1;
+    cout<<"Enter string2: ";
+    cin>>str2;
+    cout<<"CONCATENATION: "<<str1+str2;
+
+    return 0;
+}
+
+/*/OUTPUT:
+Enter string1: san
+Enter string2: usha
+CONCATENATION: sanusha
+/*/
